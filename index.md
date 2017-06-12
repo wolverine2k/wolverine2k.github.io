@@ -8,8 +8,8 @@ Below is a list of my **open-source** projects that I have hosted on different r
 
 ## Projects
 
-[![CMLogo](http://www.agileinfoways.com/blog/wp-content/uploads/2015/09/AgileInfoways_blog_CyanogenMod-12.1.jpg) CyanogenMod 12.1 for **Oppo Find5**](https://forum.xda-developers.com/oppo-find-5/development/unofficial-cm12-1-find5-rom-t3157418)
-[![LSLogo](http://i40.tinypic.com/3089nvn.png) LiquidSmooth MM6.0 for **Oppo Find5**](https://forum.xda-developers.com/oppo-find-5/development/marshmallow-unofficial-cm13-oppo-5-t3263384)
-[![AOKPLogo](http://aokp.co/images/aokp-logo-large.png) AOKP Nougat 7.1.x for **Oppo Find5**](https://forum.xda-developers.com/oppo-find-5/development/nougat-alpha-aokp-unofficial-19th-t3541629)
-[![OToolsImg](https://postimg.org/image/7fa45h5n5/) Toolkit for Oppo & OnePlus Devices](https://github.com/wolverine2k/O-Tools)
-[![ConfMgrImg](https://www.naresh.se/wp-content/uploads/confmgr.jpg) Conference Manager for Maemo/Android](https://bitbucket.org/wolverine2k/confmgr)
+[ ![CMLogo](http://www.agileinfoways.com/blog/wp-content/uploads/2015/09/AgileInfoways_blog_CyanogenMod-12.1.jpg) **CyanogenMod 12.1 for Oppo Find5** ](https://forum.xda-developers.com/oppo-find-5/development/unofficial-cm12-1-find5-rom-t3157418)
+[ ![LSLogo](http://i40.tinypic.com/3089nvn.png) **LiquidSmooth MM6.0 for Oppo Find5** ](https://forum.xda-developers.com/oppo-find-5/development/marshmallow-unofficial-cm13-oppo-5-t3263384)
+[ ![AOKPLogo](http://aokp.co/images/aokp-logo-large.png) **AOKP Nougat 7.1.x for Oppo Find5** ](https://forum.xda-developers.com/oppo-find-5/development/nougat-alpha-aokp-unofficial-19th-t3541629)
+[ ![OToolsImg](https://s24.postimg.org/sc6ca53o5/o_tools_2.png) **Toolkit for Oppo & OnePlus Devices** ](https://github.com/wolverine2k/O-Tools)
+[ ![ConfMgrImg](https://www.naresh.se/wp-content/uploads/confmgr.jpg) **Conference Manager for Maemo/Android** ](https://bitbucket.org/wolverine2k/confmgr)
